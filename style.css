@@ -1,0 +1,8 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    padding: 5px 350px;
+}
