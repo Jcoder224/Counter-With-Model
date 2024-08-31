@@ -13,7 +13,7 @@ document.getElementById('additionForm').addEventListener('submit', function(even
         result = num1 - num2;
     } else if (operation === 'multiply'){
         result = num1 * num2 ;
-    } else if (operation === divide){
+    } else if (operation === 'divide'){
         result = parseFloat(num1/num2) ;
     } else {
         result = 'Invalid operation';
